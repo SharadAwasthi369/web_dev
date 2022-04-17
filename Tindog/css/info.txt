@@ -1,3 +1,0 @@
-this is the css folder
-
-where css style files are stored
